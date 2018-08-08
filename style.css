@@ -1,0 +1,12 @@
+.store-item img {
+    height: 100px;
+  }
+  
+  #store {
+    display: flex;
+  }
+  
+  .store-item {
+    margin: 3%;
+    text-align: center;
+  }
